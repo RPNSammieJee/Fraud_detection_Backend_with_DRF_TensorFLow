@@ -1,0 +1,10 @@
+{
+  "amount": 122.095,
+  "transaction_hour": 12.0,
+  "device_trust_score": 62.0,
+  "velocity_last_24h": 2.0,
+  "cardholder_age": 44.0,
+  "merchant_category": "Food",
+  "foreign_transaction": 0,
+  "location_mismatch": 0
+}

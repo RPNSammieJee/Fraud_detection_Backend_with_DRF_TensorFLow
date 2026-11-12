@@ -1,0 +1,31 @@
+{
+  "feature_columns": [
+    "amount",
+    "device_trust_score",
+    "velocity_last_24h",
+    "cardholder_age",
+    "foreign_transaction",
+    "location_mismatch",
+    "log_amount",
+    "is_night",
+    "hour_sin",
+    "hour_cos",
+    "is_low_trust_device",
+    "is_high_velocity",
+    "foreign_and_mismatch",
+    "merchant_Electronics",
+    "merchant_Travel",
+    "merchant_Grocery",
+    "merchant_Food",
+    "merchant_Clothing"
+  ],
+  "scaled_columns": [
+    "amount",
+    "log_amount",
+    "device_trust_score",
+    "velocity_last_24h",
+    "cardholder_age",
+    "hour_sin",
+    "hour_cos"
+  ]
+}
